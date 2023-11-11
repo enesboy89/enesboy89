@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a discord bot**
  
- 🌱 I’m currently learning **Java**
+ 🌱 I’m currently learning **JavaScript**
 
  💬 Ask me about **discord.js [here](https://github.com/enesboy89/enesboy89/issues)**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,pycharm,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,pycharm,vscode,github,figma,node,discord,twitch,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=discordjs,python,javascript" /><br>
 </div>
 
