@@ -16,7 +16,7 @@
 
  💬 Ask me about **discord.js [here](https://github.com/enesboy89/enesboy89/issues)**
 
- ⚡ Fun fact **I am Icardi**
+ ⚡ Cool fact **Football obsessed**
  
  </div>
  
